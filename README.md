@@ -11,3 +11,11 @@ including those with redundancy and non-linear constraints.
 These methods iteratively approximate solutions, making them suitable for complex systems where analytical solutions are impractical.
 Although typically slower due to their iterative nature, numerical methods excel in adaptability, generality, and their ability to incorporate additional constraints and optimization criteria, 
 such as minimizing energy use or avoiding obstacles. This makes them indispensable for modern, sophisticated robotic applications where precision and adaptability are paramount.
+
+Gradient Descent Parameter 
+
+![Parameter for Gradient Descent](https://github.com/user-attachments/assets/aa20a266-c3f5-4081-91c9-fa37658f4733)
+
+Muti-goals Based Optimization
+
+![Muti-goals Based Optimization](https://github.com/user-attachments/assets/5136a2fc-a27e-477b-b181-089ae7e1b060)
