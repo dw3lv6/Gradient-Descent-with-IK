@@ -19,3 +19,7 @@ Gradient Descent Parameter
 Muti-goals Based Optimization
 
 ![Muti-goals Based Optimization](https://github.com/user-attachments/assets/5136a2fc-a27e-477b-b181-089ae7e1b060)
+
+Sample Movement
+
+![Sample Movement](https://github.com/user-attachments/assets/db77762e-641a-4240-bc53-67f1b14ab6ab)
